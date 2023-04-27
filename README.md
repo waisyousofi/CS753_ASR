@@ -1,2 +1,0 @@
-# CS753_ASR
-CTC loss
